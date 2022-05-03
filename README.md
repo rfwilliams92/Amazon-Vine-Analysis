@@ -20,4 +20,4 @@ At a glance it does seem to be some bias in the vine (paid) reviews. The percent
 
 ![image](Resources/Boxplot.png)
 
-Although seeing 1 and 2 star ratings statistically classified as outliers in the paid vine review data, we must use cation as it is a very small subset of data compared to the unpaid subset.  Further statistical analysis would be needed to determine if this diference is statistically significant to confirm bias in the paid vine review.  Additionally, the paid vine review are such a small subset of the review data that theu are insignificant to affect the 
+Although seeing 1 and 2 star ratings statistically classified as outliers in the paid vine review data, we must use cation as it is a very small subset of data compared to the unpaid subset.  Further statistical analysis would be needed to determine if this diference is statistically significant to confirm bias in the paid vine review.  Additionally, the paid vine review are such a small subset of the review data that they are not going to skew the the unpaid review data.
